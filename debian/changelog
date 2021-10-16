@@ -1,5 +1,5 @@
-deepin-compressor (1.0) unstable; urgency=medium
+deepin-compressor (5.10.0.17-1ubuntu1) impish; urgency=medium
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * New upstream release for impish.
 
- -- unknown <zs@zs-PC.com>  Thu, 12 Sep 2019 11:35:48 +0800
+ -- Ananta Mishra <mishraananta2017@gmail.com>  Sat, 16 Oct 2021 09:34:51 +0545

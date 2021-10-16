@@ -5,7 +5,7 @@ Source: https://github.com/linuxdeepin/deepin-compressor
 Files: *
 Copyright: 2017 Deepin Technology Co., Ltd.
 License: GPL-3+
- 
+
 Files: 3rdparty
 Copyright: 1989, 1991 Free Software Foundation Co., Ltd.
 License: GPL-2+
